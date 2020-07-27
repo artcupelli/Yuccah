@@ -1,0 +1,40 @@
+/* NavBar */
+#nav_main li{
+
+    padding: 20px 2% 10px 2%;
+    margin: 10px;
+}
+
+/* Links da NavBar */
+#nav_main ul li a {
+
+    font-size: 110%;
+    color: rgb(56, 56, 56) !important;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.5s;
+
+}
+
+/* Links da NavBar com o mouse em cima*/
+#nav_main ul li a:hover {
+
+    font-size: 115%;
+    color: rgb(34, 128, 99) !important;
+    font-weight: bold;
+    text-shadow: yellowgreen;
+    transition: 0.5s;
+}
+
+/* Imagem Logo da NavBar*/
+#li_navbar_logo{
+
+    width: 290px;
+    background-image: url(../images/logo.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center -2px;
+
+}
+
+
+

@@ -1,0 +1,40 @@
+/* Logo da NavBar*/
+#li_navbar_logo{
+
+    display: none;
+}
+
+/* NavBar Principal */
+#nav_main{
+
+    display: none;
+}
+
+/* NavBar Reduzida */
+#nav_smallscreen{
+
+    background-color: red;
+    visibility: visible !important;
+
+}
+
+/* Botão para mostrar itens da NavBar Reduzida*/
+#nav_smallscreen button{
+
+    width: 100%;
+    background-color: rgb(228, 227, 227);
+    text-align: right;
+    border: none;
+    border-radius: 0%;
+    height: 50px;
+    background-image: url(../images/mini_logo.png);
+    background-size: 45px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* Div com os itens da NavBar Reduzida*/
+#nav_smallscreen div{
+
+    width: 100%;
+}
