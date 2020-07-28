@@ -2,7 +2,7 @@
 #nav_main li{
 
     padding: 20px 2% 10px 2%;
-    margin: 10px;
+    margin: 10px 50px;
 }
 
 /* Links da NavBar */
@@ -28,19 +28,15 @@
 /* Imagem Logo da NavBar*/
 #li_navbar_logo{
 
-    width: 290px;
+    width: 390px;
     background-image: url(../images/logo.png);
-    background-size: 100%;
+    background-size: 90%;
     background-repeat: no-repeat;
     background-position: center -2px;
 
 }
 
-/* Div Principal */
-#div_princ{
 
-    
-}
 
 /* Row Div Principal */
 #div_row_princ{
