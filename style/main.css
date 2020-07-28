@@ -36,5 +36,27 @@
 
 }
 
+/* Div Principal */
+#div_princ{
 
+    
+}
+
+/* Row Div Principal */
+#div_row_princ{
+
+    width:70%;
+    margin-top: 15px;
+
+
+}
+
+/* Segundo Cow Div Principal com Imagem */
+#div_col_princ_2{
+
+    background-image: url(../images/fundosite1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
 
