@@ -26,9 +26,9 @@
     text-align: right;
     border: none;
     border-radius: 0%;
-    height: 50px;
-    background-image: url(../images/mini_logo.png);
-    background-size: 45px;
+    height: 70px;
+    background-image: url(../images/logo.png);
+    background-size: 130px;
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -37,6 +37,14 @@
 #nav_smallscreen div{
 
     width: 100%;
+}
+
+/* Itens da NavBar Reduzida */
+#nav_smallscreen div a {
+
+    font-family: 'Poppins', sans-serif;
+    margin-top: 5px;
+
 }
 
 /* Primeira Coluna do Div Principal */
