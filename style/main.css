@@ -47,16 +47,33 @@
 
     width:70%;
     margin-top: 15px;
-
+    height: 320px;
 
 }
 
-/* Segundo Cow Div Principal com Imagem */
+/* Primeira Coluna do Div Principal */
+#div_col_princ_1{
+
+    
+    text-align: right;
+    padding: 5% 5% 0 0;
+
+}
+
+/*  Título da Primeira Coluna do Div Principal */
+#div_col_princ_1 h1{
+
+    text-shadow: yellowgreen 2px 2px 3px;
+}
+
+
+/* Segunda Coluna do Div Principal (com Imagem) */
 #div_col_princ_2{
 
     background-image: url(../images/fundosite1.png);
     background-size: 100%;
     background-repeat: no-repeat;
+    background-position: center center;
 
 }
 

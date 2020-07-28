@@ -38,3 +38,19 @@
 
     width: 100%;
 }
+
+/* Primeira Coluna do Div Principal */
+#div_col_princ_1{
+
+    text-align: center;
+
+}
+
+
+
+/* Segunda Coluna do Div Principal */
+#div_col_princ_2{
+
+    height:250px;
+
+}
